@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+#data/*.csv  # Exclude large datasets if needed
